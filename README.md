@@ -1,4 +1,4 @@
-# Strategic Analysis of Target's Operations in Brazil using SQL <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width = 5% height = 5% />
+# Strategic Analysis of Retail Brand in South America using SQL <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width = 5% height = 5% />
 <div align="center">
   <img src="https://github.com/yashika-malhotra/Strategic-Analysis-of-Target-Operations-in-Brazil-using-SQL/blob/main/Target%20Company%20Picture.jpg?raw=true" width = 60% height = 60%/>
 </div>
